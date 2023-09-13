@@ -1,0 +1,47 @@
+LennarDigital Sylenth1 V3 KeyGen Release
+
+0.Uninstall previous versions.
+
+  Optional Clean Up : %PROGRAMDATA%\AppData\
+  The path looks strange but it is correct :)
+
+1.Install Sylenth1.
+
+  If you think you are lazy for Windows Update,
+  or you are using outdated OS, install the *.crt in "Cert Update\" dir.
+  Our "Batch_Install.cmd" will install all 3 certs.
+
+  *** R2R don't change the system setting covertly ***
+
+
+2.Block the access to follwing hosts.
+
+  www.lennardigital.com
+  rhea.exsilia.net  
+
+  It phones home when you try to activate or check updates.
+
+3.Run our keygen.
+  Copy the Serial Code.
+
+4.Run Sylenth1.
+  It asks you to activate.
+
+  Enter Serial Code. Click "OK".
+  You will get internet connection error.
+  Choose "Offline" to start offline auth.
+  Click "Save Activation File" to save "Activate.dat".
+  Click "Close" after you save that *.dat file.
+
+4.Enter your name and click "Generate" in our keygen.
+  Open "Activate.dat" you saved before.
+  After that, license file "License.dat" will be generated.
+  Save it to your hard drive.
+
+5.Drag and drop the license file to the Sylenth1 GUI.
+  Sylenth1 will be activated after restarting.
+
+6.Enjoy!
+
+
+TEAM R2R 2022
